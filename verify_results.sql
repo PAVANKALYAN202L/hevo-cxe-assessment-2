@@ -1,0 +1,1 @@
+SELECT * FROM DW_HEVO.PUBLIC.final_analytics_dataset;
